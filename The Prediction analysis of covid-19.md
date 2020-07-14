@@ -1,1 +1,0 @@
-# The Prediction analysis of covid-19
